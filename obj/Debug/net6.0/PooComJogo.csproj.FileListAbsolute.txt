@@ -1,0 +1,15 @@
+/home/bernardo/Documentos/progamas/PooComJogo/bin/Debug/net6.0/PooComJogo
+/home/bernardo/Documentos/progamas/PooComJogo/bin/Debug/net6.0/PooComJogo.deps.json
+/home/bernardo/Documentos/progamas/PooComJogo/bin/Debug/net6.0/PooComJogo.runtimeconfig.json
+/home/bernardo/Documentos/progamas/PooComJogo/bin/Debug/net6.0/PooComJogo.dll
+/home/bernardo/Documentos/progamas/PooComJogo/bin/Debug/net6.0/ref/PooComJogo.dll
+/home/bernardo/Documentos/progamas/PooComJogo/bin/Debug/net6.0/PooComJogo.pdb
+/home/bernardo/Documentos/progamas/PooComJogo/obj/Debug/net6.0/PooComJogo.csproj.AssemblyReference.cache
+/home/bernardo/Documentos/progamas/PooComJogo/obj/Debug/net6.0/PooComJogo.GeneratedMSBuildEditorConfig.editorconfig
+/home/bernardo/Documentos/progamas/PooComJogo/obj/Debug/net6.0/PooComJogo.AssemblyInfoInputs.cache
+/home/bernardo/Documentos/progamas/PooComJogo/obj/Debug/net6.0/PooComJogo.AssemblyInfo.cs
+/home/bernardo/Documentos/progamas/PooComJogo/obj/Debug/net6.0/PooComJogo.csproj.CoreCompileInputs.cache
+/home/bernardo/Documentos/progamas/PooComJogo/obj/Debug/net6.0/PooComJogo.dll
+/home/bernardo/Documentos/progamas/PooComJogo/obj/Debug/net6.0/ref/PooComJogo.dll
+/home/bernardo/Documentos/progamas/PooComJogo/obj/Debug/net6.0/PooComJogo.pdb
+/home/bernardo/Documentos/progamas/PooComJogo/obj/Debug/net6.0/PooComJogo.genruntimeconfig.cache
